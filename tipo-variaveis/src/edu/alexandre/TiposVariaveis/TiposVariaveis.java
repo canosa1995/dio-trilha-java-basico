@@ -1,3 +1,4 @@
+package edu.alexandre.TiposVariaveis;
 public class TiposVariaveis {
 
     public static void main(String[] args) throws Exception {
@@ -27,7 +28,6 @@ public class TiposVariaveis {
 
         // Uma constante tem a palavra reservada final e por convensão deve ser criada em caixa alta
         final double VALOR_DE_PI = 3.14;
-
-
+        
     }
 }
